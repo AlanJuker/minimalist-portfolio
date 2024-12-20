@@ -1,0 +1,275 @@
+{
+  "basics": {
+    "name": "Alan Andre Guijarro Pomboza",
+    "label": "Software Engineer - Full Stack Developer",
+    "image": "https://media.licdn.com/dms/image/v2/D4E03AQGpFXtj9l9wtA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1687966328608?e=1740009600&v=beta&t=yelXCTki6B9b1oGg4XacV-AKdgrWptKu1B9NAo1UjUw",
+    "email": "alan4630@gmail.com",
+    "phone": "+593 996176936",
+    "url": "https://linkedin.com/in/alan-guijarro-pomboza",
+    "summary": "I am a driven Full Stack developer, committed to ongoing learning and consistently striving to elevate my skills while delivering innovative and efficient solutions.",
+    "location": {
+      "address": "6 de diciembre & Turquía",
+      "postalCode": "170504",
+      "city": "Quito",
+      "countryCode": "EC",
+      "region": "Ecuador"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "alan-guijarro-pomboza",
+        "url": "https://linkedin.com/in/alan-guijarro-pomboza"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "National Electoral Council",
+      "position": "Electoral systems and IT specialist",
+      "url": null,
+      "startDate": "2023-09-01",
+      "endDate": null,
+      "summary": "• Developed dynamic and responsive user interfaces using Angular 16, ensuring a smooth and engaging user experience.\n• Front-end development with React for interactive and user-friendly interfaces.\n• Created custom CSS styles and JavaScript scripts for Angular components.\n• Generated detailed reports using XtraReports.\n• Developed Web APIs with .NET 6.\n• Created stored procedures in Oracle 19c.\n• Managed version control using Azure Repos.\n• Contributed to software development and maintenance using Azure DevOps for Continuous Integration and Continuous Delivery.",
+      "highlights": [
+        "Detailed report creation with XtraReports",
+        "Developed custom Angular components"
+      ]
+    },
+    {
+      "name": "Toothforce",
+      "position": "Software Developer",
+      "url": null,
+      "startDate": "2023-07-01",
+      "endDate": "2023-09-01",
+      "summary": "• Web APIs development using .NET 6.\n• User interfaces development with ASP.NET MVC framework.\n• Queries creation using LINQ and Entity Framework Core.\n• Management and version control using Git.\n• Integration of third-party components and libraries to improve system functionality and usability.\n• Unit tests development with xUnit.\n• Migration of .NET Framework APIs to .NET Core.",
+      "highlights": [
+        "Developed unit tests with xUnit",
+        "Created queries using LINQ and Entity Framework Core"
+      ]
+    },
+    {
+      "name": "TMG Group",
+      "position": "Junior Software Developer",
+      "url": null,
+      "startDate": "2021-08-01",
+      "endDate": "2023-07-01",
+      "summary": "• Web APIs development using .NET 6.\n• Implementation of user interfaces with Razor Pages and ASP.NET Core MVC framework in .NET 6.\n• Optimization of stored procedures in MySQL.\n• Version control using Git and Bitbucket.\n• Unit tests development with xUnit.\n• Code documentation.",
+      "highlights": [
+        "Version control with Git and BitBuckets",
+        "Developed unit tests with xUnit"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Pontifical Catholic University of Ecuador",
+      "url": null,
+      "area": "Information Systems Engineering",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2019-01-01",
+      "endDate": "2023-01-01",
+      "score": null,
+      "courses": []
+    },
+    {
+      "institution": "International University of La Rioja",
+      "url": null,
+      "area": "Software Engineering and Computer Systems",
+      "studyType": "Master's Degree",
+      "startDate": "2023-09-01",
+      "endDate": "2024-10-10",
+      "score": null,
+      "courses": []
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Postman API Fundamentals",
+      "date": "2024-08-01",
+      "issuer": "Postman",
+      "url": null
+    },
+    {
+      "name": "Azure Fundamentals AZ-900",
+      "date": "2023-11-01",
+      "issuer": "Microsoft",
+      "url": null
+    },
+    {
+      "name": "Scrum Foundational Professional Certificate SFPC",
+      "date": "2023-06-01",
+      "issuer": "Certiprof",
+      "url": null
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Advanced"
+    },
+    {
+      "name": "CSS",
+      "level": "Advanced"
+    },
+    {
+      "name": "JavaScript",
+      "level": "Advanced"
+    },
+    {
+      "name": "TypeScript",
+      "level": "Advanced"
+    },
+    {
+      "name": "Angular 16",
+      "level": "Advanced"
+    },
+    {
+      "name": "React",
+      "level": "Advanced"
+    },
+    {
+      "name": "C#",
+      "level": "Advanced"
+    },
+    {
+      "name": ".NET Core",
+      "level": "Advanced"
+    },
+    {
+      "name": ".NET Framework 4.6",
+      "level": "Advanced"
+    },
+    {
+      "name": "MySQL",
+      "level": "Advanced"
+    },
+    {
+      "name": "Oracle 19c",
+      "level": "Advanced"
+    },
+    {
+      "name": "SQL Server",
+      "level": "Advanced"
+    },
+    {
+      "name": "Git",
+      "level": "Advanced"
+    },
+    {
+      "name": "GitHub",
+      "level": "Advanced"
+    },
+    {
+      "name": "BitBuckets",
+      "level": "Advanced"
+    },
+    {
+      "name": "Scrum",
+      "level": "Advanced"
+    },
+    {
+      "name": "Azure DevOps",
+      "level": "Intermediate"
+    },
+    {
+      "name": "CI/CD Pipelines",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Azure Repos",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Azure Boards",
+      "level": "Intermediate"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent (C1)"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Countable Project",
+      "isActive": true,
+      "description": "Accounting project aimed at political organizations in Ecuador, for the traceability of all accounting, including income, expenses, bank reconciliation, accounting entries, among others. The project was developed in Angular for the frontend and .net for the backend, with an Oracle19c database.",
+      "highlights": [
+        "Elige tu propia aventura",
+        "En desarrollo"
+      ],
+      "url": "https://mars.codes"
+    },
+    {
+      "name": "AdventJS",
+      "isActive": true,
+      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "highlights": [
+        "+1 millón de visitas",
+        "Multidioma",
+        "JavaScript & TypeScript"
+      ],
+      "url": "https://adventjs.dev"
+    },
+    {
+      "name": "Codember",
+      "isActive": true,
+      "description": "Juego interactivo de programación con retos y secretos",
+      "highlights": [
+        "+2000 usuarios activos",
+        "Retos para cualquier lenguaje"
+      ],
+      "url": "https://codember.dev"
+    },
+    {
+      "name": "codi.link",
+      "isActive": true,
+      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "highlights": [
+        "100k visitas al mes",
+        "Desarrollado por la comunidad"
+      ],
+      "url": "https://codi.link",
+      "github": "https://github.com/midudev/codi.link"
+    },
+    {
+      "name": "Pruebas Técnicas",
+      "isActive": true,
+      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "highlights": [
+        "100% gratuito",
+        "+500 soluciones de la comunidad"
+      ],
+      "url": "https://pruebastecnicas.com",
+      "github": "https://github.com/midudev/pruebas-tecnicas"
+    },
+    {
+      "name": "miduConf",
+      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+      "highlights": [
+        "+15k tickets repartidos",
+        "+50k espectadores en directo"
+      ],
+      "url": "https://miduconf.com"
+    }
+  ],
+  "references": [
+    {
+      "name": "Andrea Benalcazar",
+      "reference": "Technical leader at Produbanco, 0995308108"
+    },
+    {
+      "name": "José Guijarro",
+      "reference": "Back-End Senior Engineer at Verndale, 0992869066"
+    },
+    {
+      "name": "Jonathan Lopez",
+      "reference": "Expert Auditor in Data Analysis at Pichincha Corp, 0999045431"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+---
+import Section from "../Section.astro";
+import { work } from "@cv";
+---
+
+<Section title="Experience">
+  <ul>
+    {
+      work.map(
+        ({ name, startDate, endDate, position, summary, highlights }) => {
+          const formatDate = (date: Date | null) => {
+            if (!date) return "Present";
+            const options: Intl.DateTimeFormatOptions = {
+              year: "numeric",
+              month: "short",
+            };
+            return new Intl.DateTimeFormat("en-US", options).format(
+              new Date(date)
+            );
+          };
+
+          const start = formatDate(new Date(startDate));
+          const end = formatDate(endDate != null ? new Date(endDate) : null);
+
+          return (
+            <li>
+              <article>
+                <header>
+                  <div>
+                    <h3>{name}</h3>
+                    <h4>{position}</h4>
+                  </div>
+                  <time>{`${start} - ${end}`}</time>
+                </header>
+                <footer>
+                  <p>{summary}</p>
+                </footer>
+              </article>
+            </li>
+          );
+        }
+      )
+    }
+  </ul>
+</Section>
+
+<style>
+  ul {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+  }
+
+  article h3 {
+    font-weight: 550;
+    color: #111;
+  }
+
+  article h4 {
+    color: #222;
+    font-weight: 400;
+  }
+
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 4px;
+  }
+
+  time {
+    font-size: 0.85rem;
+    font-weight: 550;
+    color: #111;
+  }
+
+  footer {
+    padding-left: 20px;
+  }
+</style>
